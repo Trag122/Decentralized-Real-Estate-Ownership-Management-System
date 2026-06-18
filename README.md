@@ -33,3 +33,5 @@ The system is built on a 3-Tier Architecture to ensure high performance, securit
 * Nguyen Pham Quynh Trang - Leader
 * Pham Huong Giang
 * Hoang Bui Minh Ngoc
+
+Copyright@Team15BlockchainandCryptocurrencyVNUIS2026(Trang, Giang, Ngoc)
