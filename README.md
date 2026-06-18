@@ -1,0 +1,2 @@
+# Decentralized-Real-Estate-Ownership-Management-System
+The project proposes the application of Bitcoin Core and the HD Wallet decentralized wallet  for identifying and managing apartment ownership. Through the use of Elliptic Curve  Cryptography (ECC), digital signatures, and blockchain verification mechanisms, the system  can convert apartment ownership into digitized assets stored on the blockchain.
