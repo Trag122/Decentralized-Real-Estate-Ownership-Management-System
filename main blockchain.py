@@ -363,3 +363,5 @@ if __name__ == "__main__":
     if not os.path.exists(upload_path):
         os.makedirs(upload_path)
     app.run(port=5000, debug=True)
+
+#copyright@team15blockchainandcryptocurrencyVNUIS2026(Trang, Ngoc, Giang)
