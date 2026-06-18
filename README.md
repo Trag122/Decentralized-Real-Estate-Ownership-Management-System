@@ -30,6 +30,6 @@ The system is built on a 3-Tier Architecture to ensure high performance, securit
 
 ## Project Authors
 **Team 15:**
-* **Nguyen Pham Quynh Trang (22070276) - Leader:** Ideation, system design and diagrams, project management.
-* **Pham Huong Giang (22070906):** Background research.
-* **Hoang Bui Minh Ngoc (22070846):** Software coding, Frontend UI.
+* Nguyen Pham Quynh Trang - Leader
+* Pham Huong Giang
+* Hoang Bui Minh Ngoc
